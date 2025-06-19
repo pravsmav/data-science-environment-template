@@ -1,0 +1,20 @@
+# Python virtual environment
+.venv/
+venv/ # Common alternative name
+
+# Byte-code files
+*.pyc
+
+# Codium/VS Code specific files
+.vscode/
+
+# Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
+
+# My IDE-specific files
+.idea/  # PyCharm
+__pycache__/ # Python bytecode cache
+
+# Operating System files
+.DS_Store # macOS
+Thumbs.db # Windows
