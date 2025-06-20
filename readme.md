@@ -19,8 +19,8 @@ This repository provides a simple, reproducible template for setting up a Python
 
 1.  **Clone this repository** (or download the ZIP and extract it):
     ```bash
-    # git clone [https://github.com/YourUsername/data-science-environment-template.git](https://github.com/YourUsername/data-science-environment-template.git)
-    # cd data-science-environment-template
+    git clone [https://github.com/pravsmav/data-science-environment-template.git](https://github.com/pravsmav/data-science-environment-template.git)
+    cd data-science-environment-template
     ```
 
 2.  **Run the setup script:**
