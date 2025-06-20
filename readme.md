@@ -50,7 +50,7 @@ deactivate
 ## Learn More
 
 For a detailed explanation of why virtual environments are crucial for data science and a deeper dive into this setup, check out my blog post:
-[Link to your blog post here - will update once deployed to GitHub Pages!]
+[Link to MY blog post here - will update once deployed!]
 
 ## License
 
